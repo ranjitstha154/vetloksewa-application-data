@@ -1,0 +1,209 @@
+{
+    "2082": {
+        "1": {
+            "1": {
+                "type": "holiday",
+                "title_en": "New Year 2082",
+                "title_np": "नयाँ वर्ष २०८२"
+            },
+            "18": {
+                "type": "holiday",
+                "title_en": "International Labour Day",
+                "title_np": "अन्तर्राष्ट्रिय श्रमिक दिवस"
+            },
+            "29": {
+                "type": "holiday",
+                "title_en": "Buddha Jayanti / Ubhauli",
+                "title_np": "बुद्ध जयन्ती / उभौली पर्व"
+            }
+        },
+        "2": {
+            "15": {
+                "type": "holiday",
+                "title_en": "Republic Day",
+                "title_np": "गणतन्त्र दिवस"
+            }
+        },
+        "4": {
+            "24": {
+                "type": "holiday",
+                "title_en": "Rakshya Bandhan",
+                "title_np": "रक्षाबन्धन"
+            },
+            "31": {
+                "type": "holiday",
+                "title_en": "Shree Krishna Janmastami",
+                "title_np": "श्रीकृष्ण जन्माष्टमी"
+            }
+        },
+        "5": {
+            "10": {
+                "type": "holiday",
+                "title_en": "Haritalika (Teej)",
+                "title_np": "हरितालिका (तीज)"
+            },
+            "30": {
+                "type": "holiday",
+                "title_en": "Jitiya Parwa",
+                "title_np": "जितिया पर्व"
+            }
+        },
+        "6": {
+            "3": {
+                "type": "holiday",
+                "title_en": "Constitution Day",
+                "title_np": "संविधान दिवस"
+            },
+            "6": {
+                "type": "holiday",
+                "title_en": "Ghatasthapana",
+                "title_np": "घटस्थापना"
+            },
+            "13": {
+                "type": "holiday",
+                "title_en": "Dashain (Fulpati)",
+                "title_np": "फूलपाती"
+            },
+            "16": {
+                "type": "holiday",
+                "title_en": "Bijaya Dashami",
+                "title_np": "विजया दशमी"
+            }
+        },
+        "7": {
+            "3": {
+                "type": "holiday",
+                "title_en": "Laxmi Puja",
+                "title_np": "लक्ष्मी पूजा"
+            },
+            "6": {
+                "type": "holiday",
+                "title_en": "Bhai Tika",
+                "title_np": "भाई टीका"
+            },
+            "10": {
+                "type": "holiday",
+                "title_en": "Chhath Parwa",
+                "title_np": "छठ पर्व"
+            }
+        },
+        "9": {
+            "10": {
+                "type": "holiday",
+                "title_en": "Christmas Day",
+                "title_np": "क्रिसमस डे"
+            },
+            "27": {
+                "type": "holiday",
+                "title_en": "Prithvi Jayanti",
+                "title_np": "पृथ्वी जयन्ती"
+            }
+        },
+        "10": {
+            "1": {
+                "type": "holiday",
+                "title_en": "Maghe Sankranti",
+                "title_np": "माघे संक्रान्ति"
+            },
+            "16": {
+                "type": "holiday",
+                "title_en": "Martyrs' Day",
+                "title_np": "शहीद दिवस"
+            }
+        },
+        "11": {
+            "3": {
+                "type": "holiday",
+                "title_en": "Maha Shivaratri",
+                "title_np": "महाशिवरात्रि"
+            },
+            "7": {
+                "type": "holiday",
+                "title_en": "Democracy Day",
+                "title_np": "प्रजातन्त्र दिवस"
+            }
+        }
+    },
+    "2083": {
+        "1": {
+            "1": {
+                "type": "holiday",
+                "title_en": "New Year 2083",
+                "title_np": "नयाँ वर्ष २०८३"
+            },
+            "11": {
+                "type": "holiday",
+                "title_en": "Loktantra Diwas",
+                "title_np": "लोकतन्त्र दिवस"
+            },
+            "18": {
+                "type": "holiday",
+                "title_en": "Buddha Jayanti / Ubhauli",
+                "title_np": "बुद्ध जयन्ती / उभौली पर्व"
+            }
+        },
+        "2": {
+            "15": {
+                "type": "holiday",
+                "title_en": "Republic Day",
+                "title_np": "गणतन्त्र दिवस"
+            }
+        },
+        "5": {
+            "13": {
+                "type": "holiday",
+                "title_en": "Gai Jatra",
+                "title_np": "गाईजात्रा"
+            },
+            "18": {
+                "type": "holiday",
+                "title_en": "Shree Krishna Janmastami",
+                "title_np": "श्रीकृष्ण जन्माष्टमी"
+            }
+        },
+        "6": {
+            "3": {
+                "type": "holiday",
+                "title_en": "Constitution Day",
+                "title_np": "संविधान दिवस"
+            },
+            "25": {
+                "type": "holiday",
+                "title_en": "Ghatasthapana",
+                "title_np": "घटस्थापना"
+            },
+            "31": {
+                "type": "holiday",
+                "title_en": "Dashain (Fulpati)",
+                "title_np": "फूलपाती"
+            }
+        },
+        "7": {
+            "1": {
+                "type": "holiday",
+                "title_en": "Maha Asthami",
+                "title_np": "महाअष्टमी"
+            },
+            "4": {
+                "type": "holiday",
+                "title_en": "Bijaya Dashami",
+                "title_np": "विजया दशमी"
+            },
+            "7": {
+                "type": "holiday",
+                "title_en": "Democracy Day",
+                "title_np": "प्रजातन्त्र दिवस"
+            },
+            "18": {
+                "type": "holiday",
+                "title_en": "Laxmi Puja",
+                "title_np": "लक्ष्मी पूजा"
+            },
+            "20": {
+                "type": "holiday",
+                "title_en": "Bhai Tika",
+                "title_np": "भाई टीका"
+            }
+        }
+    }
+}
