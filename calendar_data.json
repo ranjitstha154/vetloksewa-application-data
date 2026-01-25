@@ -105,6 +105,11 @@
                 "title_en": "Maghe Sankranti",
                 "title_np": "माघे संक्रान्ति"
             },
+            "1a": {
+                "type": "holiday",
+                "title_en": "test",
+                "title_np": "avfjda;s"
+            },
             "16": {
                 "type": "holiday",
                 "title_en": "Martyrs' Day",
@@ -206,4 +211,5 @@
             }
         }
     }
+
 }
