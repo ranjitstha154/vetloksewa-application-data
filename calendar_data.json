@@ -1,30 +1,12 @@
 {
     "2082": {
-        "1": {
-            "1": {
-                "type": "holiday",
-                "title_en": "New Year 2082",
-                "title_np": "नयाँ वर्ष २०८२"
-            },
-            "18": {
-                "type": "holiday",
-                "title_en": "International Labour Day",
-                "title_np": "अन्तर्राष्ट्रिय श्रमिक दिवस"
-            },
-            "29": {
-                "type": "holiday",
-                "title_en": "Buddha Jayanti / Ubhauli",
-                "title_np": "बुद्ध जयन्ती / उभौली पर्व"
-            }
-        },
-        "2": {
-            "15": {
-                "type": "holiday",
-                "title_en": "Republic Day",
-                "title_np": "गणतन्त्र दिवस"
-            }
-        },
         "4": {
+            "1": {
+                "type": "other",
+                "title_en": "Calendar Implementation Date",
+                "title_np": "कार्यतालिका लागू हुने मिति",
+                "details": "The calendar for fiscal year 2082/083 officially starts from this date[cite: 8]."
+            },
             "24": {
                 "type": "holiday",
                 "title_en": "Rakshya Bandhan",
@@ -46,6 +28,12 @@
                 "type": "holiday",
                 "title_en": "Jitiya Parwa",
                 "title_np": "जितिया पर्व"
+            },
+            "monthly_plan": {
+                "type": "vacancy_publication",
+                "title_en": "Gazetted Second Class (Technical/Non-Technical)",
+                "title_np": "राजपत्रांकित द्वितीय श्रेणी (प्राविधिक र अप्राविधिक) र अधिकृत द्वितीय ",
+                "details": "Vacancy publication for Open and Internal Competition (खुला, आ.प्र.)."
             }
         },
         "6": {
@@ -68,6 +56,18 @@
                 "type": "holiday",
                 "title_en": "Bijaya Dashami",
                 "title_np": "विजया दशमी"
+            },
+            "last_wednesday": {
+                "type": "vacancy_published_day",
+                "title_en": "Gazetted First Class Vacancy (Open/Internal)",
+                "title_np": "राजपत्रांकित प्रथम श्रेणी विज्ञापन प्रकाशन (खुला, आ.प्र.) ",
+                "details": "Scheduled for the last Wednesday of Ashwin (असोज अन्तिम बुधबार)."
+            },
+            "exam_activity": {
+                "type": "exam_day",
+                "title_en": "Exam: Gazetted Second Class (Promotion)",
+                "title_np": "परीक्षा: राजपत्रांकित द्वितीय श्रेणी (बढुवा) ",
+                "details": "Last Wednesday of Ashwin (असोज अन्तिम बुधबार)."
             }
         },
         "7": {
@@ -85,6 +85,26 @@
                 "type": "holiday",
                 "title_en": "Chhath Parwa",
                 "title_np": "छठ पर्व"
+            },
+            "monthly_plan": {
+                "type": "vacancy_publication",
+                "title_en": "Gazetted Third Class (Technical) & Health 7th/8th Level",
+                "title_np": "राजपत्रांकित तृतीय श्रेणी (प्राविधिक) र स्वास्थ्य सेवा ७ र ८ औँ तह ",
+                "details": "Vacancy publication for Open and Internal Competition (खुला, आ.प्र.)."
+            },
+            "last_wednesday": {
+                "type": "exam_day",
+                "title_en": "Exam: Health 7th/8th Level & Gazetted Third (Tech) Promotion",
+                "title_np": "परीक्षा: स्वास्थ्य ७/८ तह र राज. तृतीय प्राविधिक (बढुवा) ",
+                "details": "Last Wednesday of Kartik (कात्तिक अन्तिम बुधबार)."
+            }
+        },
+        "8": {
+            "monthly_plan": {
+                "type": "vacancy_publication",
+                "title_en": "Gazetted First Class (Promotion) & Third Class (Non-Tech)",
+                "title_np": "राजपत्रांकित प्रथम श्रेणी (बढुवा) र राजपत्रांकित तृतीय श्रेणी (अप्राविधिक) ",
+                "details": "Includes Nepal Health Service 11th and 9th level promotions."
             }
         },
         "9": {
@@ -97,6 +117,12 @@
                 "type": "holiday",
                 "title_en": "Prithvi Jayanti",
                 "title_np": "पृथ्वी जयन्ती"
+            },
+            "exam_period": {
+                "type": "exam_day",
+                "title_en": "Exam Operation: Gazetted First & Second Class (Open/Internal)",
+                "title_np": "परीक्षा सञ्चालन: राजपत्रांकित प्रथम र द्वितीय श्रेणी (खुला, आ.प्र.) ",
+                "details": "Scheduled between Poush and Magh (पुस/माघ)."
             }
         },
         "10": {
@@ -105,15 +131,22 @@
                 "title_en": "Maghe Sankranti",
                 "title_np": "माघे संक्रान्ति"
             },
-            "11": {
-                "type": "holiday",
-                "title_en": "test",
-                "title_np": "avfjda;s"
-            },
             "16": {
                 "type": "holiday",
                 "title_en": "Martyrs' Day",
                 "title_np": "शहीद दिवस"
+            },
+            "monthly_plan": {
+                "type": "vacancy_publication",
+                "title_en": "Non-Gazetted First Class (Technical) & Health 5th Level",
+                "title_np": "राजपत्र अनंकित प्रथम श्रेणी (प्राविधिक) र स्वास्थ्य ५ औँ तह ",
+                "details": "Open and Internal Competition (खुला, आ.प्र.)."
+            },
+            "last_wednesday": {
+                "type": "exam_day",
+                "title_en": "Exam: Non-Gazetted First (Tech) & Health 5th Promotion",
+                "title_np": "परीक्षा: राजपत्र अनंकित प्रथम प्राविधिक र स्वास्थ्य ५ तह (बढुवा) ",
+                "details": "Last Wednesday of Magh (माघ अन्तिम बुधबार)."
             }
         },
         "11": {
@@ -126,6 +159,26 @@
                 "type": "holiday",
                 "title_en": "Democracy Day",
                 "title_np": "प्रजातन्त्र दिवस"
+            },
+            "exam_period": {
+                "type": "exam_day",
+                "title_en": "Exam: Gazetted Third Class (Technical) & Health 7th/8th Level",
+                "title_np": "परीक्षा सञ्चालन: राजपत्रांकित तृतीय श्रेणी (प्राविधिक) र स्वास्थ्य ७ र ८ तह ",
+                "details": "Scheduled between Magh and Falgun (माघ/फागुन)."
+            }
+        },
+        "12": {
+            "monthly_plan": {
+                "type": "vacancy_publication",
+                "title_en": "Non-Gazetted Second Class (Technical) & Health 4th Level",
+                "title_np": "राजपत्र अनंकित द्वितीय श्रेणी (प्राविधिक) र स्वास्थ्य ४ थौ तह ",
+                "details": "Open and Internal Competition (खुला, आ.प्र.)."
+            },
+            "last_wednesday": {
+                "type": "exam_day",
+                "title_en": "Exam: Non-Gazetted Second (Tech) & Health 4th Promotion",
+                "title_np": "परीक्षा: राजपत्र अनंकित द्वितीय प्राविधिक र स्वास्थ्य ४ तह (बढुवा) ",
+                "details": "Last Wednesday of Chaitra (चैत अन्तिम बुधबार)."
             }
         }
     },
@@ -145,6 +198,12 @@
                 "type": "holiday",
                 "title_en": "Buddha Jayanti / Ubhauli",
                 "title_np": "बुद्ध जयन्ती / उभौली पर्व"
+            },
+            "exam_activity": {
+                "type": "exam_day",
+                "title_en": "Exam: Non-Gazetted First Class Technical (Open/Internal)",
+                "title_np": "परीक्षा सञ्चालन: राजपत्र अनंकित प्रथम श्रेणी प्राविधिक (खुला/आ.प्र.) ",
+                "details": "Scheduled for Baisakh (वैशाख)."
             }
         },
         "2": {
@@ -152,65 +211,13 @@
                 "type": "holiday",
                 "title_en": "Republic Day",
                 "title_np": "गणतन्त्र दिवस"
-            }
-        },
-        "5": {
-            "13": {
-                "type": "holiday",
-                "title_en": "Gai Jatra",
-                "title_np": "गाईजात्रा"
             },
-            "18": {
-                "type": "holiday",
-                "title_en": "Shree Krishna Janmastami",
-                "title_np": "श्रीकृष्ण जन्माष्टमी"
-            }
-        },
-        "6": {
-            "3": {
-                "type": "holiday",
-                "title_en": "Constitution Day",
-                "title_np": "संविधान दिवस"
-            },
-            "25": {
-                "type": "holiday",
-                "title_en": "Ghatasthapana",
-                "title_np": "घटस्थापना"
-            },
-            "31": {
-                "type": "holiday",
-                "title_en": "Dashain (Fulpati)",
-                "title_np": "फूलपाती"
-            }
-        },
-        "7": {
-            "1": {
-                "type": "holiday",
-                "title_en": "Maha Asthami",
-                "title_np": "महाअष्टमी"
-            },
-            "4": {
-                "type": "holiday",
-                "title_en": "Bijaya Dashami",
-                "title_np": "विजया दशमी"
-            },
-            "7": {
-                "type": "holiday",
-                "title_en": "Democracy Day",
-                "title_np": "प्रजातन्त्र दिवस"
-            },
-            "18": {
-                "type": "holiday",
-                "title_en": "Laxmi Puja",
-                "title_np": "लक्ष्मी पूजा"
-            },
-            "20": {
-                "type": "holiday",
-                "title_en": "Bhai Tika",
-                "title_np": "भाई टीका"
+            "exam_activity": {
+                "type": "exam_day",
+                "title_en": "Exam: Non-Gazetted Second Class Technical (Open/Internal)",
+                "title_np": "परीक्षा सञ्चालन: राजपत्र अनंकित द्वितीय श्रेणी प्राविधिक (खुला/आ.प्र.) ",
+                "details": "Scheduled for Jestha (जेठ)."
             }
         }
     }
-
 }
-
