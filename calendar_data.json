@@ -160,6 +160,11 @@
                 "title_en": "Democracy Day",
                 "title_np": "प्रजातन्त्र दिवस"
             },
+            "6": {
+                "type": "holiday",
+                "title_en": "Gyalpo Losar",
+                "title_np": "ग्याल्पो लोसार"
+            },
             "exam_period": {
                 "type": "exam_day",
                 "title_en": "Exam: Gazetted Third Class (Technical) & Health 7th/8th Level",
@@ -221,3 +226,4 @@
         }
     }
 }
+
