@@ -74,7 +74,7 @@
             "3": {
                 "type": "holiday",
                 "title_en": "Laxmi Puja",
-                "title_np": "लक्ष्मी पूजा"
+                "title_np": "लक्ष्मी पूजा" 
             },
             "6": {
                 "type": "holiday",
@@ -165,6 +165,16 @@
                 "title_en": "Gyalpo Losar",
                 "title_np": "ग्याल्पो लोसार"
             },
+            "18": {
+                "type": "holiday",
+                "title_en": " Fagu Poornima(Holi)",
+                "title_np": "फागु पुर्णिमा (पहाडी जिल्ला)"
+            },
+            "19": {
+                "type": "holiday",
+                "title_en": " Fagu Poornima(Terai Holi)",
+                "title_np": "फागु पुर्णिमा (तराइ होली)"
+            },
             "exam_period": {
                 "type": "exam_day",
                 "title_en": "Exam: Gazetted Third Class (Technical) & Health 7th/8th Level",
@@ -226,4 +236,5 @@
         }
     }
 }
+
 
