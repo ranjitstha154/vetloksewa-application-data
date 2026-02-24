@@ -175,6 +175,11 @@
                 "title_en": " Fagu Poornima(Terai Holi)",
                 "title_np": "फागु पुर्णिमा (तराइ होली)"
             },
+"21": {
+                "type": "event",
+                "title_en": "House of Representatives Election 2082",
+                "title_np": "प्रतिनिधिसभा निर्वाचन २०८२"
+            },
             "exam_period": {
                 "type": "exam_day",
                 "title_en": "Exam: Gazetted Third Class (Technical) & Health 7th/8th Level",
