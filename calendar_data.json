@@ -217,7 +217,7 @@
             "15": {
                 "type": "Last Day For Vacancy",
                 "title_en": "Application deadline",
-                "title_np": "दरखास्त दिने अन्तिम दिन"
+                "title_np": "संघिय लोकसेवा आयोगमा दरखास्त दिने अन्तिम दिन"
             },
             "18": {
                 "type": "holiday",
@@ -227,7 +227,7 @@
             "22": {
                 "type": "Double fee",
                 "title_en": "Double fee Deadline",
-                "title_np": "दोब्बर दस्तुर दरखास्त दिने अन्तिम दिन"
+                "title_np": "संघिय लोकसेवा आयोगमा दोब्बर दस्तुर दरखास्त दिने अन्तिम दिन"
             },
             "exam_activity": {
                 "type": "exam_day",
